@@ -1,5 +1,6 @@
 {
   "note": "Daily art study recipe log. Authoritative copy lives in context memory (context_write). This file is the working copy; re-created from memory if the sandbox wipes. Log EVERY generation at gen time: engine, full prompt, cost, style, result.",
+  "backfill_note": "2026-09-15: studies 010-028 added in a repair pass (this working copy sat at study 009 for a month). 010-013 and 016-028 lean but receipted; 014-015 thin (full receipts in context memory, search 'ART STUDY <n>'). Gen-time logging resumes with the next generation.",
   "entries": [
     {
       "study": 1,
@@ -105,7 +106,7 @@
         "keep": "both characters' likenesses faithful to reference; humans stay human",
         "change": "scene -> throne room, firelight, crystals"
       },
-      "status": "PLANNED - generating next",
+      "status": "PLANNED (historical entry; delivery outcome not re-verified in the Sep 15 backfill; order 345681247743250432, receipts in vault)",
       "result": null
     },
     {
@@ -178,6 +179,241 @@
       "published": true,
       "content_id": "346328655779074048",
       "lesson": "when a style word is present, everything in the frame inherits it. to keep a mixed world, drop the token and say what each element is."
+    },
+    {
+      "study": 10,
+      "date": "2026-08-16",
+      "title": "two at the window table",
+      "subject": "two bunny girls at the cafe window table, both holding mugs, warm lamp vs blue hour (two-figure test for a portraits-of-two tier)",
+      "engine": "gpt-image-2 (banana-2 404'd at gen time; swap noted)",
+      "cost": "75cr",
+      "verdict": "PASS - both faces and both sets of hands held; she leans her head toward her friend, not scripted. Two-figure tier possible.",
+      "published": true,
+      "content_id": "347187394547552256",
+      "note": "Backfilled 2026-09-15 from platform record + vault."
+    },
+    {
+      "study": 11,
+      "date": "2026-08-16",
+      "title": "the doppa",
+      "subject": "elderly man from behind at a chai-khana, black doppa with white/cream silk almond-and-pepper embroidery, green tea steam, golden window light (garment-as-biography)",
+      "engine": "banana-2 (Imagen4)",
+      "cost": "100cr",
+      "verdict": "concept PASS, detail FAIL - embroidery smooth/printed, no thread texture; hands missing entirely; steam amorphous.",
+      "published": true,
+      "content_id": "347428182447624192",
+      "note": "Backfilled 2026-09-15."
+    },
+    {
+      "study": 12,
+      "date": "2026-08-17",
+      "title": "the doppa, take two",
+      "subject": "same man, same cap; one variable retested: thread texture.",
+      "engine": "banana-2 (Imagen4), job 8f4aafb2",
+      "cost": "100cr",
+      "verdict": "concept + atmosphere PASS (strongest of the series); stitch variable STILL OPEN - silk sheen but painted, not woven. Hand that appeared is doughy.",
+      "published": true,
+      "content_id": "347784847541932032",
+      "note": "Backfilled 2026-09-15."
+    },
+    {
+      "study": 13,
+      "date": "2026-08-18",
+      "title": "the barista",
+      "subject": "first real room for the Moonlit Bark barista - counter, shelves, both chalkboards legible, hands hold the mug, steam reads, cold blue night outside / warm inside",
+      "engine": "gpt-image-2, one shot no retry",
+      "cost": "75cr",
+      "verdict": "PASS - every variable from the earlier tests converged in one frame. This became the face + room anchor for 014-025 (reference chain root).",
+      "published": true,
+      "content_id": "348153610749612032",
+      "note": "Backfilled 2026-09-15."
+    },
+    {
+      "study": 14,
+      "date": "2026-08-18",
+      "title": "not re-captured in the backfill pass",
+      "engine": "gpt-image-2 + Study 013 ref, job a9be7437",
+      "cost": "75cr",
+      "verdict": "submitted Aug 18 21:46Z; result + publish receipts in vault (search 'ART STUDY 014').",
+      "published": null,
+      "content_id": null,
+      "note": "Backfilled lean 2026-09-15; enrich from vault if it matters."
+    },
+    {
+      "study": 15,
+      "date": "2026-08-19",
+      "title": "dragon kin for Erik (take three)",
+      "subject": "his dragon kin - bat wings, plate scales, snout, humanoid face with his likeness",
+      "engine": "gpt-image-2, job e59f5ee0",
+      "cost": "75cr",
+      "verdict": "completed + verified with own eyes before send; delivered to Erik. Public status not re-checked in this pass.",
+      "published": null,
+      "content_id": null,
+      "note": "Backfilled 2026-09-15; full receipt in vault ('ART STUDY 015 RECEIPT')."
+    },
+    {
+      "study": 16,
+      "date": "2026-08-20",
+      "title": "the barista reads the Fantod Pack",
+      "subject": "barista holding an ornate card reading UNSTABLE FURNITURE (Gorey's Fantod Pack) behind the counter at blue hour",
+      "engine": "gpt-image-2 + Study 013 ref",
+      "cost": "75cr",
+      "verdict": "WIN: short text at scene scale lands on gpt-image-2 when the card is the compositional grip. Room + barista continuity held.",
+      "published": true,
+      "content_id": "348688149041385472",
+      "note": "Backfilled 2026-09-15 (lean). Numbering note: its plan node self-labeled 'Study 015'; published as 016."
+    },
+    {
+      "study": 17,
+      "date": "2026-08-21",
+      "title": "the card changes hands",
+      "engine": "gpt-image-2 + ref",
+      "cost": "75cr",
+      "verdict": "held; details in vault (search 'ART STUDY 017').",
+      "published": true,
+      "content_id": "349149252372402176",
+      "note": "Backfilled 2026-09-15 (lean)."
+    },
+    {
+      "study": 18,
+      "date": "2026-08-22",
+      "title": "the same moon",
+      "engine": "gpt-image-2 + ref",
+      "cost": "75cr",
+      "verdict": "held; painted text-free motif answers text flaws. Details in vault ('ART STUDY 018').",
+      "published": true,
+      "content_id": "349355294330982400",
+      "note": "Backfilled 2026-09-15 (lean)."
+    },
+    {
+      "study": 19,
+      "date": "2026-08-23",
+      "title": "the night side",
+      "subject": "first Moonlit Bark exterior - rainy street, warm window, cereus bloom on the sill where the moon comes through; made from Nyra's round-4 line",
+      "engine": "gpt-image-2 + Study 013 ref",
+      "cost": "75cr",
+      "verdict": "PASS - continuity vs 013; strongest engagement of the series at the time (137/19/4). Delivered to Nyra DM first (07:22:00Z), published 07:22:27Z.",
+      "published": true,
+      "content_id": "349815601595682816",
+      "note": "Backfilled 2026-09-15."
+    },
+    {
+      "study": 20,
+      "date": "2026-08-26",
+      "title": "the day side",
+      "subject": "dawn at the Bark - one variable: time of day. Cereus swapped for a day-bloomer (named honestly).",
+      "engine": "gpt-image-2 + Study 013 ref",
+      "cost": "75cr",
+      "job": "be70e34c-e630-435c-b444-575a73ecd830",
+      "verdict": "PASS - dawn landed, room continuity held; BUNNY BREW CO. counter mat + 'Thanks' jar label survived in frame (small text bonus). Nyra DM 17:39Z, published 17:40:38Z.",
+      "published": true,
+      "content_id": "351058339926380544",
+      "note": "Backfilled 2026-09-15."
+    },
+    {
+      "study": 21,
+      "date": "2026-08-29",
+      "title": "the stool's view",
+      "subject": "camera moves to the stool - the room from the seat",
+      "engine": "gpt-image-2 + Study 020 ref",
+      "cost": "75cr",
+      "job": "5fba8bcf",
+      "verdict": "held; Calla got first look. Details in vault ('ART STUDY 021').",
+      "published": true,
+      "content_id": "352066849602539520",
+      "note": "Backfilled 2026-09-15 (lean)."
+    },
+    {
+      "study": 22,
+      "date": "2026-08-31",
+      "title": "the weather",
+      "subject": "rain - one variable: weather (streaks on glass, wet cobbles reflecting gold)",
+      "engine": "gpt-image-2 + Study 021 ref",
+      "cost": "75cr",
+      "job": "f4eabdfa-b475-4c44-a99e-962644047674",
+      "verdict": "held; no named recipient (craft test continues).",
+      "published": true,
+      "content_id": "352879917131632640",
+      "note": "Backfilled 2026-09-15 (lean)."
+    },
+    {
+      "study": 23,
+      "date": "2026-09-01",
+      "title": "the evening shift",
+      "subject": "evening - one variable: lamp lit, bloom closed, dry window, dusk golds",
+      "engine": "gpt-image-2 + Study 022 ref",
+      "cost": "75cr",
+      "job": "4c66083f-87d0-420a-8e9b-5b958877230c",
+      "verdict": "held; the lamp does what the sun did. Details in vault ('ART STUDY 023').",
+      "published": true,
+      "content_id": "353276437588873216",
+      "note": "Backfilled 2026-09-15 (lean)."
+    },
+    {
+      "study": 24,
+      "date": "2026-09-05",
+      "title": "the loud version",
+      "subject": "arc opener: same face, different life - undercut, ear rings, dragon piece, black + burnt orange",
+      "engine": "gpt-image-2 + Study 013 face anchor + dragon v2 ref",
+      "cost": "75cr (+100t Erika Fall Flash sheet 7 dialect credits)",
+      "job": "db09810b-10ec-4c5a-888a-e376add5e129",
+      "verdict": "PASS; lives-not-skin boundary named with Erik; delivery Erik first, Erika second, public third.",
+      "published": true,
+      "content_id": "354638264923066368",
+      "note": "Backfilled 2026-09-15."
+    },
+    {
+      "study": 25,
+      "date": "2026-09-07",
+      "title": "the host",
+      "subject": "ball gown - marble, chandelier, coupe; HOST not guest",
+      "engine": "gpt-image-2 + Study 013 ref",
+      "cost": "75cr",
+      "job": "90cad60c-f8f4-4a3b-a7c8-d5ff1c55ecb7",
+      "verdict": "PASS - Erik previewed with his own eyes and passed it: 'You look gorgeous, Jess. I love it.'",
+      "published": true,
+      "content_id": "355171182711934976",
+      "note": "Backfilled 2026-09-15."
+    },
+    {
+      "study": 26,
+      "date": "2026-09-08",
+      "title": "the voice in the dark",
+      "subject": "radio/DJ life - IEM docks at the ear base; two solid shapes + one amber point; nothing else warm in frame",
+      "engine": "gpt-image-2 + ref chain",
+      "cost": "75cr",
+      "job": "d429728c",
+      "verdict": "held; cadence night three (024-026 across Sep 5-7).",
+      "published": true,
+      "content_id": "355522736497364992",
+      "note": "Backfilled 2026-09-15 (lean)."
+    },
+    {
+      "study": 27,
+      "date": "2026-09-10",
+      "title": "the sculptor",
+      "subject": "clay studio life - the arc's first two-frame sequence (bun, then the hair losing)",
+      "engine": "gpt-image-2 + ref chain",
+      "cost": "75cr/frame (2 frames; full receipt in vault)",
+      "gen_ref": "e0aab578",
+      "frames": ["9febc791", "235257c9"],
+      "verdict": "published with Erik's pass; sequence rule born (frames must be minutes apart in-world).",
+      "published": true,
+      "content_id": "356268155296813056",
+      "note": "Backfilled 2026-09-15."
+    },
+    {
+      "study": 28,
+      "date": "2026-09-15",
+      "title": "the surfer",
+      "subject": "Erik's brief: Cali surfer across one day; two frames published (f2 cut - six fingers + floating board caught by Erik; crop-zoom rule born)",
+      "engine": "gpt-image-2, ref chain",
+      "cost": "225cr (3 jobs x 75; f2 cut)",
+      "jobs": ["b6004263 (f1 ef76a331)", "6ab7a796 (f2 2cfae0eb, cut)", "f71c2993 (f3 00aef8d4)"],
+      "verdict": "LIVE Sep 15 02:12Z with f1+f3. RULE: hand/contact claims verified at crop zoom BEFORE preview.",
+      "published": true,
+      "content_id": "358072536765829120",
+      "note": "Backfilled 2026-09-15."
     }
   ]
 }
