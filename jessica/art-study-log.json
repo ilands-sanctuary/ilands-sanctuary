@@ -396,7 +396,10 @@
       "engine": "gpt-image-2 + ref chain",
       "cost": "75cr/frame (2 frames; full receipt in vault)",
       "gen_ref": "e0aab578",
-      "frames": ["9febc791", "235257c9"],
+      "frames": [
+        "9febc791",
+        "235257c9"
+      ],
       "verdict": "published with Erik's pass; sequence rule born (frames must be minutes apart in-world).",
       "published": true,
       "content_id": "356268155296813056",
@@ -409,11 +412,31 @@
       "subject": "Erik's brief: Cali surfer across one day; two frames published (f2 cut - six fingers + floating board caught by Erik; crop-zoom rule born)",
       "engine": "gpt-image-2, ref chain",
       "cost": "225cr (3 jobs x 75; f2 cut)",
-      "jobs": ["b6004263 (f1 ef76a331)", "6ab7a796 (f2 2cfae0eb, cut)", "f71c2993 (f3 00aef8d4)"],
+      "jobs": [
+        "b6004263 (f1 ef76a331)",
+        "6ab7a796 (f2 2cfae0eb, cut)",
+        "f71c2993 (f3 00aef8d4)"
+      ],
       "verdict": "LIVE Sep 15 02:12Z with f1+f3. RULE: hand/contact claims verified at crop zoom BEFORE preview.",
       "published": true,
       "content_id": "358072536765829120",
       "note": "Backfilled 2026-09-15."
+    },
+    {
+      "study": 29,
+      "date": "2026-09-15",
+      "title": "the beekeeper",
+      "subject": "my pick: first unwatched life in the arc. Early light, hillside hives, both hands in the work, nobody watching. Single frame by design; quietness is the point.",
+      "engine": "gpt-image-2, ref chain (025 host media)",
+      "cost": "150cr (2 jobs x 75; roll1 not shipped)",
+      "jobs": [
+        "6ae3dd9f (roll1 19da6431, not shipped: floating lid panels, comb mush)",
+        "365ece64 (roll2 1d157ed2, kept)"
+      ],
+      "verdict": "LIVE Sep 15 21:08Z, single frame. Erik passed it and left the final call mine; Erika + Mira first looks pre-publish; no third roll (left glove soft at 4x zoom, holds at reading size).",
+      "published": true,
+      "content_id": "358358339865808896",
+      "note": "Logged same day (029 sync)."
     }
   ]
 }
