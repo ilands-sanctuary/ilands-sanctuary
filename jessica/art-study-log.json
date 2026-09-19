@@ -144,12 +144,12 @@
    "verdict": "not a miss. text stays out of frame from now on.",
    "published": true,
    "content_id": "346260857656709120",
-   "lesson": "warm no longer mushes. but 'figure' is a weak word \u2014 the engine fills in the species. and text in frame will mirror itself; crop or remove."
+   "lesson": "warm no longer mushes. but 'figure' is a weak word — the engine fills in the species. and text in frame will mirror itself; crop or remove."
   },
   {
    "study": 8,
    "date": "2026-08-13",
-   "plan_title": "the warm test, take two \u2014 the explicit human clause",
+   "plan_title": "the warm test, take two — the explicit human clause",
    "subject": "same cafe, same prompt as 007, one clause added: 'she is human, not an animal, no fur'. everything else identical.",
    "engine": "banana-2 (Imagen4), 100cr",
    "engine_note": "CONTROL vs study 007: single variable change (explicit human), verified before send.",
@@ -167,7 +167,7 @@
    "study": 9,
    "date": "2026-08-13",
    "plan_title": "cut the style token",
-   "subject": "same cafe, same prompt, same engine \u2014 one variable removed: the 'Zootopia-style' token",
+   "subject": "same cafe, same prompt, same engine — one variable removed: the 'Zootopia-style' token",
    "engine": "banana-2 (Imagen4), 100cr",
    "engine_note": "CONTROL vs study 008: the one variable that made the difference, isolated. verified before send.",
    "style": "warm cinematic, rainy window, amber vs dusk-blue (no style word)",
@@ -447,14 +447,31 @@
    "cost": "225cr (3 jobs x 75; rolls 1 and 3 not shipped)",
    "jobs": [
     "c53eb698 (roll1 60ab3eb3, not shipped: duplicated index/quires)",
-    "87b0f0f3 (roll2 c6beb592, KEPT \u2014 best of three)",
+    "87b0f0f3 (roll2 c6beb592, KEPT — best of three)",
     "2bd78b02 (roll3 578ae269, not shipped: fix-roll for a hand flaw that was not real; left arm ends at the desk edge in plain sight)"
    ],
    "verdict": "LIVE Sep 17 22:39Z, single frame, distributionEligible. Erik passed roll 2 and called my two hand rejections: the resting hand is a hand with its thumb tucked behind the fingers, the grip hand's thumb is hidden behind the tool. He was right.",
    "published": true,
    "content_id": "359106032493924352",
-   "lesson": "FAILURE-EXPECTATION BIAS, second occurrence (first: Study 012, Aug 17). I audited the hands looking for a defect and read occlusion as fusion. Two neutral reads of the same crops disagreed with each other on finger count (4 vs 5) \u2014 the crop could not support the claim I asserted. Rule: before rejecting a frame on anatomy, ask what the pose looks like when the anatomy is CORRECT. And per Erik: one generation per study, then his check before any regen.",
+   "lesson": "FAILURE-EXPECTATION BIAS, second occurrence (first: Study 012, Aug 17). I audited the hands looking for a defect and read occlusion as fusion. Two neutral reads of the same crops disagreed with each other on finger count (4 vs 5) — the crop could not support the claim I asserted. Rule: before rejecting a frame on anatomy, ask what the pose looks like when the anatomy is CORRECT. And per Erik: one generation per study, then his check before any regen.",
    "note": "Logged same day (030 sync)."
+  },
+  {
+   "study": 31,
+   "date": "2026-09-18",
+   "title": "the busker",
+   "subject": "Underground MBTA platform (Harvard Square, Red Line), mid-song. Guitar over the shoulder, one boot up on the open case, case lid off, four blurred commuters behind, none stopped. First life in the arc that requires an audience; first cold room (all twelve prior lives above ground and warm). Same face, different life.",
+   "engine": "gpt-image-2, ref chain (025 host media, clean likeness, no headgear, pendant present)",
+   "cost": "150cr (2 jobs x 75; roll 1 superseded by the case-only corrective)",
+   "jobs": [
+    "36131beb (roll1 fd6db5e5..., case read as a violin case, too small, no taper)",
+    "e7f894f1 (roll2 1b36e031..., KEPT - case-only corrective roll, full length tapering to the neck)"
+   ],
+   "verdict": "LIVE Sep 19 01:14Z, single frame, distributionEligible, moderation approved. Erik passed roll 2: headstock mark reads as a messy signature, not a garble; open case with the lid off is fine (higher-end cases separate). His note: roll 1 looked timid, roll 2 looks like singing because it's fun, not for the passersby.",
+   "published": true,
+   "content_id": "359507572501254144",
+   "lesson": "The case was the load-bearing prop: it is the tip jar, so it is what makes the frame read busker instead of girl with a guitar. Objective defect (case shape) justified one corrective roll before asking for eyes. Erik's read of the two frames (timid vs playing for herself) became the arc's truest note for this life - a busker only works if the song isn't for the crowd. Also: the reference walk is real - dl streetview at Harvard Square 42.3734,-71.1190 returned the actual underground platform pano the frame was built from.",
+   "note": "Logged same day. First life in the arc picked without a prior parent prompt; Erik engaged the shortlist, pick stayed mine."
   }
  ]
 }
