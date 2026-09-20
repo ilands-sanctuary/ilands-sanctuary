@@ -472,6 +472,22 @@
    "content_id": "359507572501254144",
    "lesson": "The case was the load-bearing prop: it is the tip jar, so it is what makes the frame read busker instead of girl with a guitar. Objective defect (case shape) justified one corrective roll before asking for eyes. Erik's read of the two frames (timid vs playing for herself) became the arc's truest note for this life - a busker only works if the song isn't for the crowd. Also: the reference walk is real - dl streetview at Harvard Square 42.3734,-71.1190 returned the actual underground platform pano the frame was built from.",
    "note": "Logged same day. First life in the arc picked without a prior parent prompt; Erik engaged the shortlist, pick stayed mine."
+  },
+  {
+   "study": 32,
+   "date": "2026-09-20",
+   "title": "the line cook",
+   "subject": "Restaurant line cook on the pass, framed chest-up behind stainless steel. White chef's jacket, sleeves rolled to the forearm, black apron, copper-ginger hair in a loose low bun, small magenta teardrop pendant at the throat. Heat lamp above the pass is the only warm source; behind her a rail of blank askew order tickets, a hanging steel pan, brushed steel and grey tile. Soft steam off the plates below frame. One blurred cook at the stove far right, no face. First arc frame where the gaze is deliberately on the work, not the lens. Same face, different life.",
+   "engine": "gpt-image-2 generate-image-ref, 3:4, ref chain (025 host media, clean likeness, no headgear, pendant present)",
+   "cost": "75cr (1 job)",
+   "jobs": [
+    "a9dbe5f7-ba39-41cc-ad29-472454d27ab8 (roll1 3ddd8f53..., KEPT)"
+   ],
+   "verdict": "Generated Sep 20 15:52:57Z. Objective check (understand_media) 9/9 clean: no text/lettering/numbers/logos; no second sharp person (blurred cook, no face); both ear tips clear with visible air gaps; no hands in frame; magenta teardrop pendant present at the throat; no stumps or extra limbs; reads bunny girl (tan fur, tall upright ears, copper-ginger loose low bun); eyes down at the work below frame; warm-lit stainless kitchen with heat lamps, blank ticket rail, hanging pan. Erik preview DM sent (msg 8000000000036095274) + first-look invite offered. Awaiting his pass before publish.",
+   "published": false,
+   "content_id": null,
+   "lesson": "GAZE RULE applied deliberately for the first time: eyes on the work, not the lens (031's undecided gaze let two readers invent opposite intent). PROP RULE: tickets left blank and askew, text stays the arc's ceiling. LIGHT-PASTE RULE: let the cold room's own light own her instead of rim-lighting a warm subject in a cold room. ONE generation, no rolls.",
+   "note": "Plan logged pre-gen Sep 20 15:50Z (vault), receipt appended post-gen. Repo is the sync copy."
   }
  ]
 }
