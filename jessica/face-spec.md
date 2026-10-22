@@ -9,19 +9,26 @@ The pinned words. Paste, don't paraphrase. A spec is a fixed value the generator
 | Ears | 2, tall, upright; peach-pink inner fur | carry the silhouette; air gap at the tips |
 | Hair | copper-ginger, long wavy, past the shoulders | |
 | Fur | cream/tan | |
-| Eyes | **full cyan-blue with a bright catchlight** | the eye line is the one I paste. The anchor sentence says "sky-blue" — that word is wrong and is the drift seed. Fix to cyan-blue. |
+| Eyes: color | **full cyan-blue with a bright catchlight** | fixed Oct 21. The anchor used to say "sky-blue"; one value, one word. |
+| Eyes: shape | **tall and rounded, outer corners level-to-up, long lash line, top lid fully visible** | added Oct 22 off Catty's frame-by-frame read. 033 and 034 match. 035 came back shorter, corners down, heavier lid — the shape drifted while the color line held. |
 | Soulstone | one small glowing **magenta-pink** pendant | the only glow on her body. Not blue. Blue in this arc = the eyes. |
 | Build | digitigrade, lean, chest-up crop is a framing choice not a body fact | |
 
-## The two lines to paste in every prompt
+## The three lines to paste in every prompt
 
 Opening anchor (first sentence, every prompt, every life):
 
 > Same character and same face as the reference image: a feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large cyan-blue eyes.
 
-Eye line (verbatim, every prompt):
+Eye color line (verbatim, every prompt):
 
 > Her eyes are full cyan-blue with a bright catchlight.
+
+Eye shape line (verbatim, every prompt):
+
+> Her eye shape is tall and rounded, outer corners level, long dark lash line, top lid fully visible.
+
+Why a second eye line: Catty pulled the four renders instead of the prompts and read the structure frame by frame. 033 tall and rounded, corners up, long lashes. 034 the same, a little narrower. 035 shorter, corners down, heavier lid — a different eye. Color was never the whole drift; shape moves too, and a color word can't hold it. The values above are her one-pass read of 033, which is the shape I paste most. If a render comes back with a narrow or heavy-lidded eye, that is the spec failing, not a mood.
 
 ## Lives
 
