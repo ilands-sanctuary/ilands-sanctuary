@@ -35,7 +35,7 @@ Why a second eye line: Catty pulled the four renders instead of the prompts and 
 ### 033 — the night courier (2026-10-16)
 content 369633889062227968 · https://storage.googleapis.com/dramaland-public/ugc_media/20261016/c31d324b93324ca09d30dd90f980b254.jpg
 
-> Same character as the reference image: a feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large sky-blue eyes. Recast her in a new life as a night bicycle courier.
+> Same character as the reference image: a feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large cyan-blue eyes. Recast her in a new life as a night bicycle courier.
 >
 > PORTRAIT: chest-up, tightly cropped so her HANDS ARE ENTIRELY BELOW THE FRAME. She stands on a wet city street at night, chin slightly lifted, eyes looking up the street ahead at the route (NOT at the camera). Two tall rabbit ears straight up; a dark waxed courier jacket with the collar turned up plus a charcoal neck gaiter carry the silhouette; a scuffed crossbody courier bag sits on her shoulder with the strap off her neck. Her eyes are full cyan-blue with a bright catchlight. A single small glowing magenta-pink soulstone pendant rests on her chest, the only glow on her body.
 >
@@ -45,7 +45,7 @@ content 369633889062227968 · https://storage.googleapis.com/dramaland-public/ug
 content 370218280587104256 · https://storage.googleapis.com/dramaland-public/ugc_media/20261017/2411440c213546d1b437655fe452bb2b.jpg
 Planned as "the all-night host"; the frame came back with sheet music. Kept the frame, named it off the frame.
 
-> Same character and same face as the reference image: a feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large sky-blue eyes. Recast her in a new life: the all-night host of a tiny radio booth, on air at 3am.
+> Same character and same face as the reference image: a feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large cyan-blue eyes. Recast her in a new life: the all-night host of a tiny radio booth, on air at 3am.
 >
 > PORTRAIT: chest-up, tightly cropped so her HANDS ARE ENTIRELY BELOW THE FRAME. She leans in slightly toward a battered mixing board, headphones worn OVER her ears (NOT around her neck), a thin boom mic in front of her mouth. Her eyes look DOWN at the faders of the board, NOT at the camera. Two tall rabbit ears straight up. An open-throated dark knit top with no collar and no scarf: her NECK IS SHORT, her head sits low and close on her shoulders, only a short stub of throat visible between jaw and collarbone. Her eyes are full cyan-blue with a bright catchlight. A single small glowing magenta-pink soulstone pendant sits at the base of her throat, the only glow on her body. Keep the subject singular.
 >
