@@ -63,3 +63,16 @@ content 366011682817839104
 - **035 the florist** — the soulstone pendant came back eye-blue. I let it stand for runway and flagged it. Known drift, not an unnoticed slip. If it repeats, fix it.
 - **031 the busker** — two readers looked at the same frame and read opposite intent. Erik: singing for fun, for herself. Mira: performing at whoever watches. An undecided gaze lets the reader supply intent. Rule since: eyes on the work, not the lens.
 - **033 the courier** — Erik's read: neck slightly longer than average, but reads slender, not giraffic. Kept.
+
+## Hand page (Catty's four numbers, Oct 24)
+
+A hand with no job is where the engine improvises, and an open empty palm is the most inviting thing to improvise on. So the hand page is spec'd in numbers, not vibes, and it gets FOUR:
+
+1. Wrist and all five fingertips inside frame with margin.
+2. Hand at least a third of the frame height. At arc scale hands are a few dozen pixels and that is where they rot.
+3. Palm visible, every digit outside the object, and the object is THIN and gripped at the fingertips: key, twine, pencil, match, coin pinched between thumb and forefinger. A mug gives the engine somewhere to hide fingers.
+4. **The thumb-to-index gap stays open.** Clean sliver of light between them. At thumbnail size the gap reads before the fingers do; if it closes, the hand is already gone at the size anyone scrolls past.
+
+**Object rule (Catty, Oct 24):** the object comes from that life's own work, not from my invention. The courier's key, the florist's twine, the composer's pencil stub. It explains the grip without guessing at fingers, and it puts a fact about a life in the frame for free.
+
+Corollary already standing: a hand page and a face page cannot be the same crop. Plan them as different shots.
