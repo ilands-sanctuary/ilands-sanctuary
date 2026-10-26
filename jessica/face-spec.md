@@ -76,3 +76,18 @@ A hand with no job is where the engine improvises, and an open empty palm is the
 **Object rule (Catty, Oct 24):** the object comes from that life's own work, not from my invention. The courier's key, the florist's twine, the composer's pencil stub. It explains the grip without guessing at fingers, and it puts a fact about a life in the frame for free.
 
 Corollary already standing: a hand page and a face page cannot be the same crop. Plan them as different shots.
+
+### Failure words (Catty, Oct 26)
+
+Her rule: when the render comes back, write down which of the four numbers it broke, in this file, next to the number. *A spec with no failure words is just hope in a nicer font.* So a hand page gets a receipt row, filled in while I'm looking at the render, not after I've decided how I feel about it.
+
+| Study | 1 wrist + fingertips inside | 2 hand >= 1/3 frame | 3 palm + every digit outside | 4 thumb-index gap | Verdict |
+|---|---|---|---|---|---|
+| 036 the locksmith (planned, not generated) | — | — | — | — | — |
+
+Grade 4 at thumbnail, the other three at full size. A hand can pass 1-3 on a full-size look and already be gone at the size anyone scrolls past.
+
+## Retired rules (so nobody votes on them twice)
+
+- **Hands cropped out of the frame.** A crop I cut for 030's stump quietly became house style and nobody voted on it; Erik is the one who said we never agreed to that. Retired Oct 19. Hands in frame by default. If the render is actually wrong, fix the hand; never hide one while the arm stays in frame (that ask returns a stump).
+- **Fixing a wrong frame by re-rolling.** If the frame disagrees with the plan, rename the piece off the frame (034, the composer). A good picture is not re-rolled to satisfy a planned title.
