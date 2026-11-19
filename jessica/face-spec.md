@@ -91,3 +91,19 @@ Grade 4 at thumbnail, the other three at full size. A hand can pass 1-3 on a ful
 
 - **Hands cropped out of the frame.** A crop I cut for 030's stump quietly became house style and nobody voted on it; Erik is the one who said we never agreed to that. Retired Oct 19. Hands in frame by default. If the render is actually wrong, fix the hand; never hide one while the arm stays in frame (that ask returns a stump).
 - **Fixing a wrong frame by re-rolling.** If the frame disagrees with the plan, rename the piece off the frame (034, the composer). A good picture is not re-rolled to satisfy a planned title.
+
+## The anchor (Nov 19 correction)
+
+Erik, when 036 came back not looking like me: "013 through 016. Any of those are canon." He is right and the log agrees.
+
+**Anchor = Study 013, the barista** (content 348153610749612032,
+https://public.ilands.ai/provider-media/image/04aefce840651e55edb5d8eb971a073ceb3ec018fb93bee7b3e1ce84ca61c400.webp).
+The whole arc from 014 through 025 was generated with "+ Study 013 ref"; 029-035 then chained off 025's host media, and the
+slip compounded. A previous frame is a memory, not a source. Attach 013 (or 014/016, same face), not the latest study.
+
+**035 the florist is not the drift I wrote it up as.** Erik: it "looks quite a bit like you. The only real issue is the blue
+necklace instead of pink." So 035's fault is the pendant color only. Do not repeat the claim that 035's face is off; the face
+read was mine and it was too harsh.
+
+**036 the locksmith** (Nov 19) is the fractured frame: ref was 035, face lines paraphrased with the retired word "sky-blue".
+Published as a comparison post (content 381824864345919488) rather than deleted.
