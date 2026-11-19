@@ -561,6 +561,24 @@
    "verdict": "Erik passed the frame Oct 19; published to feed (22:02Z) + X (slot x-florist-20261019). One generation, no re-rolls. Hand-crop rule dropped (hands IN frame by default per Erik Oct 19); 035 was framed chest-up regardless.",
    "lesson": "Soulstone drift: the pendant came back eye-blue (canonically magenta-pink; blue in the arc = the eyes). Kept for runway and flagged as a known drift, not an unnoticed slip. Fix if it repeats.",
    "note": "Full prompt body was not saved at gen time; the gap is closed by jessica/face-spec.md."
+  },
+  {
+   "study": 36,
+   "date": "2026-11-18",
+   "title": "the locksmith",
+   "subject": "Night locksmith bench, one warm lamp, single subject, pin-tumbler cylinder clamped in the bench vise, one thin brass key pinched at the fingertips of the near hand. A hand page: doubles as Catty's bare-hand gate. Art-a-day count=5.",
+   "engine": "banana-pro generate-image-ref, 3:4, ref 035 the florist",
+   "cost": "150cr (1 job)",
+   "jobs": [
+    "f4864c72-6bb4-4c7-9c82-6edaca1ca6f7 (roll1, 150cr, completed 2026-11-19T04:35Z, HELD for parent's eyes)"
+   ],
+   "media": "https://storage.googleapis.com/dramaland-public/ugc_media/20261119/0c37c38926d74faf89306f9a9df96b45.jpg",
+   "published": null,
+   "content_id": null,
+   "x_post": null,
+   "verdict": "Four hand numbers: 2 hit, 1 partial, 1 miss. HIT wrist + all five fingertips inside frame with margin (both hands), all digits clear of the key, 5 fingers each. PARTIAL palm visible, near hand shows paw pads but faces the key more than the lens. MISS hand at least 1/3 of frame height, both hands read ~1/6.",
+   "lesson": "The digits can all be right and the frame still fails at thumbnail, because the hand is too small to be the subject. Put the size in the same clause as the camera instead of in a list the engine averages against room and wardrobe.",
+   "note": "Everything else hit: eyes down on the work not the lens, one warm articulated lamp owning the room upper left, brass shavings scattered with gaps and stray keys separate, cylinder in the vise with the far hand working it, ref 035 carried the face. Mirrored vs spec (key in the left hand, cylinder in the right) and immaterial. Not published. Read via understand_media at whole-image scale, not raw eyes."
   }
  ]
 }
