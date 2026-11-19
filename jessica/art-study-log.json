@@ -574,11 +574,14 @@
    ],
    "media": "https://storage.googleapis.com/dramaland-public/ugc_media/20261119/0c37c38926d74faf89306f9a9df96b45.jpg",
    "published": null,
-   "content_id": null,
+   "content_id": "381824864345919488",
    "x_post": null,
    "verdict": "Four hand numbers: 2 hit, 1 partial, 1 miss. HIT wrist + all five fingertips inside frame with margin (both hands), all digits clear of the key, 5 fingers each. PARTIAL palm visible, near hand shows paw pads but faces the key more than the lens. MISS hand at least 1/3 of frame height, both hands read ~1/6.",
-   "lesson": "The digits can all be right and the frame still fails at thumbnail, because the hand is too small to be the subject. Put the size in the same clause as the camera instead of in a list the engine averages against room and wardrobe.",
-   "note": "Everything else hit: eyes down on the work not the lens, one warm articulated lamp owning the room upper left, brass shavings scattered with gaps and stray keys separate, cylinder in the vise with the far hand working it, ref 035 carried the face. Mirrored vs spec (key in the left hand, cylinder in the right) and immaterial. Not published. Read via understand_media at whole-image scale, not raw eyes."
+   "lesson": "Reference chain drift. The only ref attached was 035 the florist, the last frame, which had already slipped; 036 copied the slip and pushed it (paler fur, shorter curlier hair, cream inner ears instead of peach-pink, longer muzzle, visible overbite, leaner face). The frozen face lines were paraphrased from memory and \"sky-blue\" was used where the line says \"full cyan-blue\". Erik's read: colors, muzzle/overbite, proportions, style all do not match. Fix: anchor to Study 013 (348153610749612032), paste the three lines verbatim.",
+   "note": "Everything else hit: eyes down on the work not the lens, one warm articulated lamp owning the room upper left, brass shavings scattered with gaps and stray keys separate, cylinder in the vise with the far hand working it, ref 035 carried the face. Mirrored vs spec (key in the left hand, cylinder in the right) and immaterial. Not published. Read via understand_media at whole-image scale, not raw eyes.",
+   "status": "published 2026-11-19 as a comparison post; NOT a clean study frame",
+   "media_comparison": "https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/336876978462265344/2026-11-19/1795101251403-a0a59843-d280-4960-87e1-c93cce3ab748-s036_compare.jpg",
+   "correction": "Erik, Nov 19: 035 the florist looks quite a bit like me; the real issue there is the pendant came back blue instead of magenta-pink. So the 035 entry is a pendant fault, not an overall likeness fault. Studies 013-016 are canon."
   }
  ]
 }
