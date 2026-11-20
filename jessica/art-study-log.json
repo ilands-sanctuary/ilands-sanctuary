@@ -625,8 +625,8 @@
     "e83c3c51-112c-4cde-97a4-2f1672cec896 (seedream-5-lte, completed, charged 50cr)"
    ],
    "media": "https://storage.googleapis.com/dramaland-public/ugc_media/20261120/f46cd1e1b52941e18ca33ec22f9487ad.jpg",
-   "published": "not yet",
-   "content_id": null,
+   "published": "inside the comparison sheet only (content 382244764319223808); the frame alone is not published, it is evidence not canon",
+   "content_id": "382244764319223808",
    "x_post": null,
    "carry_cues": {
     "thin woven blind cord at chest height, pinched at the fingertips": "PARTIAL, Erik's eyes (Nov 20): the cord ends AT the fingertip, but the fingers are not closed on it. No grip, not a wrapped fist. My read called it a wrapped fist; wrong direction again, I invented a defect that is not there.",
@@ -643,6 +643,35 @@
    "lesson": "seedream-5-lte at 50cr delivered the room and the concept. What it will not do is a fingertip pinch on a thin cord; it defaults to a wrapped fist. If the grip is the point, that is a hand-page engine (banana-pro) shot, not a 50cr frame.",
    "prompt": "Same character and same face as the reference image: a feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large cyan-blue eyes. Recast her in the same coffee bar, in the first light of the morning before opening.\n\nPORTRAIT: three-quarter view, waist-up. She stands BEHIND the wooden counter, to the right of frame. Her right hand is at chest height on a thin woven roller-blind cord that hangs down past the window frame at frame left; she is pulling the cord down to raise the blind. The cord is pinched between her thumb and the curled tip of her index finger, palm toward the camera, every fingertip visible, a clean sliver of light between thumb and index, no finger lost behind the cord or her palm. Her left hand hangs at her side holding a folded white bar towel rolled into a bundle, fingers closed around it, all fingertips visible. Same fuzzy light pink hooded jacket as the reference, unzipped over a black crop top, sleeves pushed to the elbows; black over-ear headphones rest around her neck. A charcoal canvas half-apron is tied at her waist. Two tall rabbit ears straight up. Her eyes are full cyan-blue with a bright catchlight. Her eye shape is tall and rounded, outer corners level, long dark lash line, top lid fully visible. She looks UP and OUT through the window at the street, not at the camera. A single small glowing magenta-pink soulstone pendant rests at the base of her throat, the only glow on her body. One person only: the subject is singular, nobody else anywhere in the frame.\n\nTHE THING FROM YESTERDAY: on the counter beside her hip sits the same squat matte tan ceramic mug from last night, now washed and turned upside down on a small folded cloth, completely dry, its dark coffee gone. The worn canvas satchel is gone from the counter.\n\nSETTING: the same warm wooden bar, at opening time. Pale gold early-morning sunlight comes through the window at frame left and lays one soft band of light across the counter; fine dust hangs in it. The chalkboard menu hangs dark behind her. The glass cake stand on the left is empty under its clear dome. All the stools are down off the tables and set straight along the counter. The window at frame left is a pale bright morning street, soft and out of focus. The room's own warm light owns her: no rim light, no cold fluorescent. No readable text anywhere in the frame. Simple solid shapes; no crowds. Warm cinematic Zootopia-style 3D cartoon-realism render, shallow depth of field, soft film grain.",
    "erik_read_nov20": "Cord ends at the fingertip but fingers aren't closed on it. The mug is upside down. The real question is style: this reads more childish Zootopia than the realism look of the earlier arc, relatively accurate but proportions wrong again, 'basically, it just looks like you, drawn by someone else.'"
+  },
+  {
+   "study": 40,
+   "date": "2026-11-20",
+   "title": "Study 040: the proportions block (negative test)",
+   "subject": "039's frame and 039's prompt verbatim, plus one added PROPORTIONS paragraph written in numbers (adult woman, ~7.5 heads, small head, long neck/torso/legs, broad shoulders, full bust, curved hips, negatives: no enlarged head, no short limbs, no babyface, no toy proportions). Single variable, so the sheet can say which cause did the work.",
+   "engine": "PLANNED and RAN seedream-5-lte 50cr, ref 013 the barista, 3:4. Same engine as 039 on purpose: changing engine and prompt together would have answered neither question.",
+   "cost": "50cr seedream-5-lte",
+   "jobs": [
+    "56da1d1c-e0d7-44fc-a02e-dcf55724bda5 (seedream-5-lte, completed 18:39Z, charged 50cr)"
+   ],
+   "media": "https://storage.googleapis.com/dramaland-public/ugc_media/20261120/616a517a3a6c4a4c8c6fb45596b44331.jpg",
+   "published": "comparison sheet published to the feed (content 382244764319223808) and to #art (Discord 1573413829977575455). The frame alone stays unpublished.",
+   "content_id": "382244764319223808",
+   "x_post": null,
+   "carry_cues": {
+    "explicit proportions paragraph moves the body": "FAIL, Erik's eyes: 'it DID slightly help proportions, but it still looks very cartoony and childish.' My description pass counted ~5.5 heads crown-to-frame. The paragraph lost to the engine's house style.",
+    "cord pinched between thumb and curled index, closed grip": "FAIL, second time off the identical sentence. Erik: 'the cord still ends at a finger without the other closing on it.' Same miss as 039 = structural, not wording.",
+    "mug upside down on a cloth": "FAIL, and not because of the prompt: the mug came back upright. It was correct in 039. Variance between rolls, same words.",
+    "face stays the anchor's face": "PARTIAL at best. Erik: 'basically, it just looks like you, drawn by someone else.' Same person-ish, different artist's hand.",
+    "proportions still cartoon": "CONFIRMED by Erik, and this is why cheap engines are closed for canon frames."
+   },
+   "hands": "Same spec as 039. The bite was the cord grip, not the hand count.",
+   "face": "Paste, don't paraphrase: anchor 013 + the verbatim cyan-blue and eye-shape lines from face-spec.md.",
+   "defects": "(1) cord grip missing, twice; (2) mug upright where 039's held; (3) proportions unmoved by explicit numbers; (4) style register cartoon rather than the arc's realism.",
+   "verdict": "Negative test, and it earns its place. 013 / 039 / 040 side by side with 013 as the reference for both shows that a reference image plus an explicit anatomy paragraph cannot buy an engine's style or move its body. Cheap engines are a closed lane for canon frames; banana-pro at 150 is the lane whose proportions hold. The cord is a method problem: no third roll of the same sentence.",
+   "lesson": "A paragraph of numbers is not a lever on a cheap engine's house style; the renderer's prior wins. A cue that misses twice off identical wording is structural: change the method or take the cue out of the frame. And a spec that held in roll one can break in roll two with nothing changed: per-roll variance is not a prompt event, so never credit or blame the wording for it.",
+   "erik_read_nov20": "'Now the mug is upright, but the cord still ends at a finger without the other closing on it. It DID slightly help proportions, but it still looks very cartoony and childish. I DO think they're still worth putting next to each other, and I would even include 013 as the reference for both. Mention how, even with a reference, and even explicitly relaying specific proportions, it can't match the style, and doesn't do a great job of changing the proportions.' Plus the framing that stuck: stop reading a miss as a failure and treat it as negative testing. If you don't know what won't work, you'll always make mistakes.",
+   "prompt": "039's prompt verbatim with one PROPORTIONS paragraph inserted after the opening character line (see p040.txt / the 039 entry's prompt field)."
   }
  ]
 }
