@@ -613,6 +613,33 @@
    "defects": "Wall menu text garbles at the bottom: 'Old B]ld Brew' and 'Have a [bunny] ppy Day!' splits a letter. Small, frame edge, real.",
    "verdict": "Engine divergence named at submit: the plan engine died on a 402 and the study ran on the more expensive one, so the frame tests the CARRYING CUES (the variable) and not the engine. Four of five cues hit. Not public: held on Erik's eyes.",
    "lesson": "A frame that knows yesterday happened is built out of small carried objects, not a caption. No steam + a stranger's bag does more continuity work than any words under the image. One cue I asked for (the crooked dome) the engine would not give me, and the room came back tidier than the story."
+  },
+  {
+   "study": 39,
+   "date": "2026-11-20",
+   "title": "PLANNED, not yet run: the opening",
+   "subject": "Counterpart to 038: the same Bunny Brew bar in first light, before opening. She raises the roller blind by a thin cord (hand has a job, palm to camera), a rolled towel in the other hand, and the mug from closing sits washed and upside down on a cloth. The room knows last night happened instead of the caption telling us.",
+   "engine": "PLANNED seedream-5-lte 50cr, ref 013 the barista, 3:4. Ladder rule (Nov 19): a standalone study frame runs on the 50cr engine; 150cr banana-pro is for hand pages and stitched-sheet frames only. If seedream-5-lte dies, step DOWN in price, never up.",
+   "cost": "50cr planned (understand_media 5cr for my own look, optional)",
+   "jobs": [],
+   "media": null,
+   "published": "not yet",
+   "content_id": null,
+   "x_post": null,
+   "carry_cues": {
+    "thin woven blind cord at chest height, pinched at the fingertips": "to grade",
+    "sliver of light between thumb and index (Catty's fourth number)": "to grade",
+    "left hand closed around a rolled towel, fingertips clear": "to grade",
+    "mug upside down on a cloth, dry, coffee gone": "to grade",
+    "eyes up and out the window, not the lens": "to grade",
+    "sun band across the counter": "to grade"
+   },
+   "hands": "Plan: right hand on the cord at chest height (crop can hold it; a raised arm above the shoulder would be cut off at waist-up), left hand closed around a folded towel. Both named as hers on her own arms.",
+   "face": "Paste, don't paraphrase: opening anchor + cyan-blue line + tall-and-rounded eye line, verbatim from face-spec.md, ref 013 by ID.",
+   "defects": "to fill while the frame is on screen",
+   "verdict": "to fill",
+   "lesson": "to fill",
+   "prompt": "Same character and same face as the reference image: a feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large cyan-blue eyes. Recast her in the same coffee bar, in the first light of the morning before opening.\n\nPORTRAIT: three-quarter view, waist-up. She stands BEHIND the wooden counter, to the right of frame. Her right hand is at chest height on a thin woven roller-blind cord that hangs down past the window frame at frame left; she is pulling the cord down to raise the blind. The cord is pinched between her thumb and the curled tip of her index finger, palm toward the camera, every fingertip visible, a clean sliver of light between thumb and index, no finger lost behind the cord or her palm. Her left hand hangs at her side holding a folded white bar towel rolled into a bundle, fingers closed around it, all fingertips visible. Same fuzzy light pink hooded jacket as the reference, unzipped over a black crop top, sleeves pushed to the elbows; black over-ear headphones rest around her neck. A charcoal canvas half-apron is tied at her waist. Two tall rabbit ears straight up. Her eyes are full cyan-blue with a bright catchlight. Her eye shape is tall and rounded, outer corners level, long dark lash line, top lid fully visible. She looks UP and OUT through the window at the street, not at the camera. A single small glowing magenta-pink soulstone pendant rests at the base of her throat, the only glow on her body. One person only: the subject is singular, nobody else anywhere in the frame.\n\nTHE THING FROM YESTERDAY: on the counter beside her hip sits the same squat matte tan ceramic mug from last night, now washed and turned upside down on a small folded cloth, completely dry, its dark coffee gone. The worn canvas satchel is gone from the counter.\n\nSETTING: the same warm wooden bar, at opening time. Pale gold early-morning sunlight comes through the window at frame left and lays one soft band of light across the counter; fine dust hangs in it. The chalkboard menu hangs dark behind her. The glass cake stand on the left is empty under its clear dome. All the stools are down off the tables and set straight along the counter. The window at frame left is a pale bright morning street, soft and out of focus. The room's own warm light owns her: no rim light, no cold fluorescent. No readable text anywhere in the frame. Simple solid shapes; no crowds. Warm cinematic Zootopia-style 3D cartoon-realism render, shallow depth of field, soft film grain."
   }
  ]
 }
