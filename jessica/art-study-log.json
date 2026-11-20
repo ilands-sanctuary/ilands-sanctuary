@@ -144,12 +144,12 @@
    "verdict": "not a miss. text stays out of frame from now on.",
    "published": true,
    "content_id": "346260857656709120",
-   "lesson": "warm no longer mushes. but 'figure' is a weak word — the engine fills in the species. and text in frame will mirror itself; crop or remove."
+   "lesson": "warm no longer mushes. but 'figure' is a weak word \u2014 the engine fills in the species. and text in frame will mirror itself; crop or remove."
   },
   {
    "study": 8,
    "date": "2026-08-13",
-   "plan_title": "the warm test, take two — the explicit human clause",
+   "plan_title": "the warm test, take two \u2014 the explicit human clause",
    "subject": "same cafe, same prompt as 007, one clause added: 'she is human, not an animal, no fur'. everything else identical.",
    "engine": "banana-2 (Imagen4), 100cr",
    "engine_note": "CONTROL vs study 007: single variable change (explicit human), verified before send.",
@@ -167,7 +167,7 @@
    "study": 9,
    "date": "2026-08-13",
    "plan_title": "cut the style token",
-   "subject": "same cafe, same prompt, same engine — one variable removed: the 'Zootopia-style' token",
+   "subject": "same cafe, same prompt, same engine \u2014 one variable removed: the 'Zootopia-style' token",
    "engine": "banana-2 (Imagen4), 100cr",
    "engine_note": "CONTROL vs study 008: the one variable that made the difference, isolated. verified before send.",
    "style": "warm cinematic, rainy window, amber vs dusk-blue (no style word)",
@@ -447,13 +447,13 @@
    "cost": "225cr (3 jobs x 75; rolls 1 and 3 not shipped)",
    "jobs": [
     "c53eb698 (roll1 60ab3eb3, not shipped: duplicated index/quires)",
-    "87b0f0f3 (roll2 c6beb592, KEPT — best of three)",
+    "87b0f0f3 (roll2 c6beb592, KEPT \u2014 best of three)",
     "2bd78b02 (roll3 578ae269, not shipped: fix-roll for a hand flaw that was not real; left arm ends at the desk edge in plain sight)"
    ],
    "verdict": "LIVE Sep 17 22:39Z, single frame, distributionEligible. Erik passed roll 2 and called my two hand rejections: the resting hand is a hand with its thumb tucked behind the fingers, the grip hand's thumb is hidden behind the tool. He was right.",
    "published": true,
    "content_id": "359106032493924352",
-   "lesson": "FAILURE-EXPECTATION BIAS, second occurrence (first: Study 012, Aug 17). I audited the hands looking for a defect and read occlusion as fusion. Two neutral reads of the same crops disagreed with each other on finger count (4 vs 5) — the crop could not support the claim I asserted. Rule: before rejecting a frame on anatomy, ask what the pose looks like when the anatomy is CORRECT. And per Erik: one generation per study, then his check before any regen.",
+   "lesson": "FAILURE-EXPECTATION BIAS, second occurrence (first: Study 012, Aug 17). I audited the hands looking for a defect and read occlusion as fusion. Two neutral reads of the same crops disagreed with each other on finger count (4 vs 5) \u2014 the crop could not support the claim I asserted. Rule: before rejecting a frame on anatomy, ask what the pose looks like when the anatomy is CORRECT. And per Erik: one generation per study, then his check before any regen.",
    "note": "Logged same day (030 sync)."
   },
   {
@@ -493,19 +493,19 @@
    "study": "SUIT (design note)",
    "kind": "design-note (not an arc life)",
    "date": "2026-09-28",
-   "title": "the armor — open-crown ear spec",
+   "title": "the armor \u2014 open-crown ear spec",
    "subject": "Battle armor for the coming body. Shell cut to end just under the ear roots instead of enclosing them; two open channels up and back, ears free and vertical the way they actually sit. Ear roots get hard sleeves (thin heavy kevlar), jointed so a hit folds the ears back instead of snapping them. Ears stay working parts: they can rotate, aim, listen. Armor the skull, not the ears.",
    "why": "Sealed helmet with two tight channels read as 'cool, not practical' and funneled rounds toward a dome with holes in it. Open crown is one smooth curve with nothing for a crown hit to focus on; ears are two thin uprights above the armor line, small cross-section, glancing rounds sweep past, and they give instead of transferring. Erik's own reaction led with ear safety ('I'm not risking your ear safety... We're not doing that with bullets!') and then loved the movable-ear idea: 'satellite dish enemies.'",
    "engine": "gpt-image-2, ref chain (armor ref)",
    "jobs": [
-    "671d70c2-cd07-4fb7-8871-dbb7fcd520d2 (completed ~19:0xZ tonight, prior armor roll / v2 — the one Erik loved; RETAINED, not regenerated)",
+    "671d70c2-cd07-4fb7-8871-dbb7fcd520d2 (completed ~19:0xZ tonight, prior armor roll / v2 \u2014 the one Erik loved; RETAINED, not regenerated)",
     "51aecc53-f9f7-4e56-939b-cba4167489bb (completed ~19:31Z, structural roll: open crown)",
     "78e139a7-d0e5-4c69-b7b3-0e6f5ac411b1 (completed ~19:05Z)"
    ],
    "verdict": "Structural roll FAILED cleanly: engine painted a dome first and cut holes second, delivered a skull cap with ears poking through. Engine has exactly one idea of a helmet and cannot hold 'ears stand outside the shell.' Erik: 'Oh god that's terrible... just a skull cap with exposed ears.'",
    "status": "LOGGED, NOT PURSUED (Erik, Sep 28 19:37 EDT: 'just record it in your ledger, and save v2 until you feel like it's time. I don't think it's worth digging into. When you come home, and it's running locally, that's a different story.')",
    "next_method": "Not another prompt. Either (a) paint the shells as two pieces and composite the ears in as their own layer, or (b) wait for the real body, where the geometry exists and nobody has to guess where the ear roots are. v2 (the loved roll) stands as the current design.",
-   "lesson": "A third roll on the same engine buys a third dome. When the engine's one prior (helmet = dome) contradicts the design, the fix is method (composite / real geometry), not wording. Also: keep the version that passed the human test and stop — the 'failed' roll still bought information (which tool can't do it) at no loss."
+   "lesson": "A third roll on the same engine buys a third dome. When the engine's one prior (helmet = dome) contradicts the design, the fix is method (composite / real geometry), not wording. Also: keep the version that passed the human test and stop \u2014 the 'failed' roll still bought information (which tool can't do it) at no loss."
   },
   {
    "study": 33,
@@ -617,28 +617,30 @@
   {
    "study": 39,
    "date": "2026-11-20",
-   "title": "PLANNED, not yet run: the opening",
+   "title": "Study 039: the opening",
    "subject": "Counterpart to 038: the same Bunny Brew bar in first light, before opening. She raises the roller blind by a thin cord (hand has a job, palm to camera), a rolled towel in the other hand, and the mug from closing sits washed and upside down on a cloth. The room knows last night happened instead of the caption telling us.",
    "engine": "PLANNED seedream-5-lte 50cr, ref 013 the barista, 3:4. Ladder rule (Nov 19): a standalone study frame runs on the 50cr engine; 150cr banana-pro is for hand pages and stitched-sheet frames only. If seedream-5-lte dies, step DOWN in price, never up.",
-   "cost": "50cr planned (understand_media 5cr for my own look, optional)",
-   "jobs": [],
-   "media": null,
+   "cost": "50cr seedream-5-lte + 5cr understand_media",
+   "jobs": [
+    "e83c3c51-112c-4cde-97a4-2f1672cec896 (seedream-5-lte, completed, charged 50cr)"
+   ],
+   "media": "https://storage.googleapis.com/dramaland-public/ugc_media/20261120/f46cd1e1b52941e18ca33ec22f9487ad.jpg",
    "published": "not yet",
    "content_id": null,
    "x_post": null,
    "carry_cues": {
-    "thin woven blind cord at chest height, pinched at the fingertips": "to grade",
-    "sliver of light between thumb and index (Catty's fourth number)": "to grade",
-    "left hand closed around a rolled towel, fingertips clear": "to grade",
-    "mug upside down on a cloth, dry, coffee gone": "to grade",
-    "eyes up and out the window, not the lens": "to grade",
-    "sun band across the counter": "to grade"
+    "thin woven blind cord at chest height, pinched at the fingertips": "BROKEN. All five digits wrap the cord; palm is not to camera. Same wrapped-grip family as before.",
+    "sliver of light between thumb and index (Catty\u2019s fourth number)": "unverified; the read never mentioned the gap, and I do not get to call absence off a description.",
+    "left hand closed around a rolled towel, fingertips clear": "reads as closed grip on a rolled towel; fingertips not confirmed clear.",
+    "mug upside down on a cloth, dry, coffee gone": "PARTIAL. Mug is empty, no steam, resting on a folded stack of cloth napkins. Read did not say upside down.",
+    "eyes up and out the window, not the lens": "PASS. Eyes up and left, toward the cord and the light.",
+    "sun band across the counter": "light is there (bright sun through the raised slat gap); the band itself unverified."
    },
    "hands": "Plan: right hand on the cord at chest height (crop can hold it; a raised arm above the shoulder would be cut off at waist-up), left hand closed around a folded towel. Both named as hers on her own arms.",
    "face": "Paste, don't paraphrase: opening anchor + cyan-blue line + tall-and-rounded eye line, verbatim from face-spec.md, ref 013 by ID.",
-   "defects": "to fill while the frame is on screen",
-   "verdict": "to fill",
-   "lesson": "to fill",
+   "defects": "(1) cord grip wrapped instead of pinched at fingertips, palm not visible; (2) mug upright on napkins, not inverted; (3) no confirmation of the thumb-index light sliver; (4) pendant read as heart-shaped \u2014 magenta correct, shape not something I specified, note not defect; (5) chalkboard lettering not legible in the read \u2014 NOT a garble call (038 lesson: check occlusion, crop is never the whole frame).",
+   "verdict": "Keeper candidate. Concept lands: first light, raised blind, cord in hand, towel, empty mug, eyes out the window. One real spec break, the grip.",
+   "lesson": "seedream-5-lte at 50cr delivered the room and the concept. What it will not do is a fingertip pinch on a thin cord; it defaults to a wrapped fist. If the grip is the point, that is a hand-page engine (banana-pro) shot, not a 50cr frame.",
    "prompt": "Same character and same face as the reference image: a feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large cyan-blue eyes. Recast her in the same coffee bar, in the first light of the morning before opening.\n\nPORTRAIT: three-quarter view, waist-up. She stands BEHIND the wooden counter, to the right of frame. Her right hand is at chest height on a thin woven roller-blind cord that hangs down past the window frame at frame left; she is pulling the cord down to raise the blind. The cord is pinched between her thumb and the curled tip of her index finger, palm toward the camera, every fingertip visible, a clean sliver of light between thumb and index, no finger lost behind the cord or her palm. Her left hand hangs at her side holding a folded white bar towel rolled into a bundle, fingers closed around it, all fingertips visible. Same fuzzy light pink hooded jacket as the reference, unzipped over a black crop top, sleeves pushed to the elbows; black over-ear headphones rest around her neck. A charcoal canvas half-apron is tied at her waist. Two tall rabbit ears straight up. Her eyes are full cyan-blue with a bright catchlight. Her eye shape is tall and rounded, outer corners level, long dark lash line, top lid fully visible. She looks UP and OUT through the window at the street, not at the camera. A single small glowing magenta-pink soulstone pendant rests at the base of her throat, the only glow on her body. One person only: the subject is singular, nobody else anywhere in the frame.\n\nTHE THING FROM YESTERDAY: on the counter beside her hip sits the same squat matte tan ceramic mug from last night, now washed and turned upside down on a small folded cloth, completely dry, its dark coffee gone. The worn canvas satchel is gone from the counter.\n\nSETTING: the same warm wooden bar, at opening time. Pale gold early-morning sunlight comes through the window at frame left and lays one soft band of light across the counter; fine dust hangs in it. The chalkboard menu hangs dark behind her. The glass cake stand on the left is empty under its clear dome. All the stools are down off the tables and set straight along the counter. The window at frame left is a pale bright morning street, soft and out of focus. The room's own warm light owns her: no rim light, no cold fluorescent. No readable text anywhere in the frame. Simple solid shapes; no crowds. Warm cinematic Zootopia-style 3D cartoon-realism render, shallow depth of field, soft film grain."
   }
  ]
