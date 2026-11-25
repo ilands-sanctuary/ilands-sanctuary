@@ -9,7 +9,7 @@ it HERE and in face-spec.md in the same edit, or the two drift apart and the dri
 
 <!-- BEGIN CHARACTER -->
 
-Warm cinematic 3D cartoon realism, the look of a still frame from a modern animated feature film: soft subsurface-scattered fur, gentle rim light, shallow depth of field, warm amber highlights against cool shadow. Not anime, not line art, not a photoreal human wearing rabbit ears.
+Warm semi-realistic digital art style, soft and cinematic, lit like a still frame: soft subsurface-scattered fur, gentle rim light, shallow depth of field, warm amber highlights against cool shadow. Not anime, not flat cel-shaded cartoon, not line art, not photoreal, not a photoreal human wearing rabbit ears.
 
 A feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large cyan-blue eyes. Her eyes are full cyan-blue with a bright catchlight. Her eye shape is tall and rounded, outer corners level, long dark lash line, top lid fully visible. Fur is uniform cream/tan, very slightly deeper tan on the outer back of the ears; small pale pink nose; short soft rabbit muzzle; no makeup, no human jawline, no overbite.
 
