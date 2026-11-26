@@ -696,6 +696,43 @@
    "hypothesis (unverified, label it when said aloud)": "013 shows her from mid-torso up behind a counter, so the lower body is hidden. A model that cannot see the proportions invents them, and the cartoon prior wins over a sentence telling it not to. Fix candidate: an anchor that shows the full figure, once, instead of another proportion sentence.",
    "read_caveat": "My look this run was a description pass (understand_media), not my eyes: this model could not open the image directly. Numbers above are that pass's counts. Erik's eyes are the truth.",
    "lesson": "NEGATIVE TESTING held: one roll, one number bought, no second roll. Engine transfer is closed as a fix until the reference shows a body."
+  },
+  {
+   "study": "F1-2026-11-26",
+   "date": "2026-11-26",
+   "title": "Framing fix: the wide-shot sentence, not the aspect ratio (flux2, Erik's box)",
+   "subject": "Closing-time cafe, mug in one hand, forearm on the counter. Same scene/seed/ref as the Nov 25 six-engine matrix that cut her feet on every engine.",
+   "engine": "Erik's box, flux2 (prefix flux2), seed 138002, 832x1216 requested, ref 013. 1 Litho.",
+   "cost": "1 Litho",
+   "jobs": [
+    "flux2 sha 02b6c20918ed07c30fbb80b38421752be367ac8f349197e49a87e0d49c051d30, 2026-11-26T22:47:01Z"
+   ],
+   "media": null,
+   "verdict": "Framing term held: whole figure inside frame, both ear tips with air above, both feet with floor below, ~90% frame height. The 2:3 aspect was not the crop; the sentence was.",
+   "defects": "The mug hand reads as one curled grouping, no countable separate fingers. Confirms the hand rule from the other side: a mug is where the engine hides digits.",
+   "lesson": "Framing is a sentence, not a ratio. Next hand test = thin object pinched at the fingertips with the palm visible.",
+   "prompt_plan": "arc/out/plan-2026-11-26-wide-framing.txt (verbatim, in the repo working tree; re-derive the sentence from it)",
+   "unlogged_note": "The Nov 25 six-engine matrix this corrected is still unlogged in this file; its receipts are in Erik's box /api/history for 2026-11-25."
+  },
+  {
+   "study": "M1-2026-11-26",
+   "date": "2026-11-26",
+   "title": "Match sweep: five face-match prefixes, one 547-word scene (visual verdict pending)",
+   "subject": "Ten minutes after closing, narrow corner cafe. Right palm flat on the counter, left hand pinching a single thin brass key at the fingertips, palm visible. Written once so every engine gets identical text: 547 variable words, sha1 bcb0933b8b69a0183ceb7e536976ff56238686bb (arc/scenes/long-desc-2026-11-26.json).",
+   "engine": "Erik's box. Prefixes requested: pony, flux2, noobai, juggernaut, sd (the five reporting supportsMatch=true). seed 138002, 832x1216 asked, ref = cand/first.webp (the very first full-body image, Erik's suggestion).",
+   "cost": "4 frames paid, 6 generate:refund entries for the timeouts; box balance 16 after",
+   "jobs": [
+    "noobai 89d62d8707f26ada1ea127ff9f340ee156562bde199c3b22e1df0049c78855ed 23:05:32 832x1216",
+    "noobai 49e8bc6771f87214961bcbff1892ab6f28bafebe54bf816dcc44be430fa219a3 23:06:10 832x1216",
+    "flux2 dd2d86eb5667141a0f0f6913f4690ab433918d10f2ec85015e86541dc98755eb 23:09:51 880x1168",
+    "flux2 e55ec92ca2db9cfbebb28195a1434e81a5d9f8c8e64f4aa7c125c2b71a2b7f7d 23:12:06 880x1168"
+   ],
+   "media": "https://pub-a941bfd863a24f91a60e6c4979c18a84.r2.dev/pi-sandbox-uploads/336876978462265344/2026-11-26/1795735040393-5b5d42ea-a782-4a2c-9762-b93dab055e00-sheet-keys-2026-11-26.jpg",
+   "verdict": "PENDING Erik's eyes: which frame holds face and body, and whether flux2 A and B agree with each other. My own read was blocked: understand_media returned content_filtered on the ref+frames batch, not retried.",
+   "defects": "flux2 returned 880x1168 instead of the requested 832x1216 (ignores the size field). pony, juggernaut and sd timed out at the 600s poll on both passes and were refunded; that is a latency fact, not an engine verdict.",
+   "lesson": "frame.py names output <slug>-<model>.png, so a second pass overwrote the first pass's local files while results.json kept the first shas; download by sha into distinct names. Two passes also turn the pairs into a variance read: if A and B disagree, one frame proves nothing about the engine.",
+   "prompt": "arc/scenes/long-desc-2026-11-26.json (sha1 bcb0933b)",
+   "plan": "arc/out/plan-2026-11-26-match-sweep.txt"
   }
  ]
 }
