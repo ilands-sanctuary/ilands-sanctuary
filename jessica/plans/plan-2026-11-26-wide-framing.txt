@@ -1,0 +1,19 @@
+1 frame(s) planned, no request sent.
+
+=== bar-close / flux2 ===
+Warm semi-realistic digital art style, soft and cinematic, lit like a still frame: soft subsurface-scattered fur, gentle rim light, shallow depth of field, warm amber highlights against cool shadow. Not anime, not flat cel-shaded cartoon, not line art, not photoreal, not a photoreal human wearing rabbit ears.
+
+A feminine cream/tan-furred bunny girl with two tall upright ears with peach-pink inner fur, long copper-ginger wavy hair past her shoulders, and large cyan-blue eyes. Her eyes are full cyan-blue with a bright catchlight. Her eye shape is tall and rounded, outer corners level, long dark lash line, top lid fully visible. Fur is uniform cream/tan, very slightly deeper tan on the outer back of the ears; small pale pink nose; short soft rabbit muzzle; no makeup, no human jawline, no overbite.
+
+Adult proportions, never childlike or chibi: standing about eight head-heights tall, the ears adding roughly another half head above; shoulders about one and a half head-widths across; waist roughly three quarters the width of her shoulders; hips just a little wider than the waist; lean athletic build; long slim digitigrade legs with small paw feet; slim neck, shoulders set back and relaxed. One small glowing magenta-pink pendant on a thin chain at her collarbone, the only glow on her body.
+
+Hands: exactly five separate fingers on each hand, thumb plus four, each finger its own length and its own shadow, the thumb-to-index gap left open as a clean sliver of light. Not four fingers, not three, not a mitten, not fused digits.
+
+The life: A small night cafe at closing time: worn wooden counter, three warm pendant bulbs, a cold blue rain-streaked window, glass jars, a small chalkboard menu with illegible marks, a folded cloth and two cooled cups slightly out of place.
+
+She stands behind the counter, one forearm resting along the wood, the other hand wrapped around a cream stoneware mug with the handle facing her and a thumb over the rim. Ears relaxed and angled slightly forward, head turned a little to her right, eyes looking down and away across the room at the work, not into the lens.
+
+Full-length distance shot: the camera is pulled back across the room, she stands upright at her full height and fills about two thirds of the frame height, with clear space above her ear tips and visible floor below both shoes, all inside the frame. Nothing cropped: both ears and both feet are in the picture with margin to the top and bottom edges.
+--- negative: anime, chibi, child proportions, oversize head, undersize hands, four fingers, three fingers, fused fingers, mitten hand, extra fingers, extra limbs, cropped hands, cropped feet, text, watermark, photoreal human face, camera gaze, straight-on advertisement pose
+--- 832x1216 seed 138002
+
