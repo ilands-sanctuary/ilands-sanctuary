@@ -711,7 +711,7 @@
    "verdict": "Framing term held: whole figure inside frame, both ear tips with air above, both feet with floor below, ~90% frame height. The 2:3 aspect was not the crop; the sentence was.",
    "defects": "The mug hand reads as one curled grouping, no countable separate fingers. Confirms the hand rule from the other side: a mug is where the engine hides digits.",
    "lesson": "Framing is a sentence, not a ratio. Next hand test = thin object pinched at the fingertips with the palm visible.",
-   "prompt_plan": "arc/out/plan-2026-11-26-wide-framing.txt (verbatim, in the repo working tree; re-derive the sentence from it)",
+   "prompt_plan": "jessica/plans/plan-2026-11-26-wide-framing.txt",
    "unlogged_note": "The Nov 25 six-engine matrix this corrected is still unlogged in this file; its receipts are in Erik's box /api/history for 2026-11-25."
   },
   {
@@ -731,8 +731,8 @@
    "verdict": "PENDING Erik's eyes: which frame holds face and body, and whether flux2 A and B agree with each other. My own read was blocked: understand_media returned content_filtered on the ref+frames batch, not retried.",
    "defects": "flux2 returned 880x1168 instead of the requested 832x1216 (ignores the size field). pony, juggernaut and sd timed out at the 600s poll on both passes and were refunded; that is a latency fact, not an engine verdict.",
    "lesson": "frame.py names output <slug>-<model>.png, so a second pass overwrote the first pass's local files while results.json kept the first shas; download by sha into distinct names. Two passes also turn the pairs into a variance read: if A and B disagree, one frame proves nothing about the engine.",
-   "prompt": "arc/scenes/long-desc-2026-11-26.json (sha1 bcb0933b)",
-   "plan": "arc/out/plan-2026-11-26-match-sweep.txt"
+   "prompt": "jessica/plans/long-desc-2026-11-26.json (sha1 bcb0933b)",
+   "plan": "jessica/plans/plan-2026-11-26-match-sweep.txt"
   }
  ]
 }
